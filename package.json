@@ -1,0 +1,18 @@
+{
+  "name": "visionadapterapi",
+  "version": "1.0.0",
+  "description": "A Simple API to connect to Google Cloud Vision API",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC"
+}
